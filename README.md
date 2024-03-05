@@ -10,3 +10,5 @@ Determines if a sub string is in the entered string
 Hangman:
 Classic game of hangman
 
+TicTacToe:
+Classic game of TicTacToe
