@@ -21,3 +21,6 @@ Find the shortest path using City-Pairs to visit all cities without stating entr
 
 Prims graph:
 A Minimum Spanning Tree (MST) that goes through City-pairs
+
+IP-net:
+This is a command line interface that will, given a specified IP and its cidr, calculate the NetID, First and Last available IP address, and its broadcast IP, the submask, and its increments
