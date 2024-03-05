@@ -6,3 +6,7 @@ goes through to determine if there are a balanced amount of brackets/parenthesis
 
 BruteForceStringFinder:
 Determines if a sub string is in the entered string 
+
+Hangman:
+Classic game of hangman
+
